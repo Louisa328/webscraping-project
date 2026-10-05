@@ -46,12 +46,14 @@ requirements.txt
 **Challenges and fixes:**
 
 - **IMDb blocks scrapers.** A normal User-Agent header didn't help: `requests` got status 202 and an empty page. The response header `x-amzn-waf-action: challenge` shows the page is protected by AWS WAF, which sends a JavaScript check that requests can't run.
-- **CAPTCHA.** I switched to Selenium (a real Chrome browser). IMDb still showed an image CAPTCHA, which I solved manually once. I did not try to bypass it automatically.
+- **CAPTCHA.** I switched to Selenium. IMDb still showed an image CAPTCHA, which I had to solve it manually. 
 - **Outdated selectors.** Even with the full page loaded, I found 0 movies. Movie titles are no longer in `h3.ipc-title__text`. I saved the HTML and found a JSON-LD block with all 250 movies, so I parsed that instead. It's simpler and more stable than HTML class names.
 
 **Result:** 250 movies, 8 fields (rank, title, rating, votes, genre, content rating, duration in minutes, URL).
 
 **Data notes:** 6 movies have no content rating. They are all non-US movies, which likely never got a US rating, so I kept them as missing. 
+
+<img width="1712" height="842" alt="265e84a0-4550-4a60-842d-caae041d9e3d" src="https://github.com/user-attachments/assets/dfa9ab21-69dc-4eb3-9ea3-49f02e348fc7" />
 
 ---
 
@@ -84,8 +86,7 @@ requirements.txt
 
 **Finding:** From January to April, Miran dissented each time, wanting a rate cut. In April, Hammack, Kashkari and Logan also dissented, objecting to the statement's easing bias. In July the same three dissented again, this time wanting a rate hike. In September the committee raised rates by 1/4 point, and the vote was unanimous.
 
-<!-- screenshot: DevTools Inspect showing div#article -->
-![FOMC inspect](screenshots/fomc_inspect.png)
+<img width="1718" height="1066" alt="fa78035f-af31-4bee-a7ae-227f233ba87a" src="https://github.com/user-attachments/assets/6139a267-ed53-414d-a639-7aece19afed6" />
 
 ---
 
@@ -102,11 +103,6 @@ requirements.txt
 | Re-requesting pages while testing | Saved pages once and parsed from memory (FOMC) |
 | Hashed class names break | Used readable class names, IDs, or JSON-LD instead |
 
-## What I learned
-
-- **Check results, not just whether the code runs.** The empty IMDb page, the 0 ratings and the missed April dissenters all came without any error.
-- **Check all the data before writing rules.** My FOMC parser worked on the first statement and failed on the fourth.
-- **The right tool depends on the site.** requests was enough to list Oxylabs products but missed the ratings, and IMDb needed a real browser.
 
 ## How to run
 
