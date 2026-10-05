@@ -69,9 +69,7 @@ requirements.txt
 
 **Challenges and fixes:**
 
-- **Garbled text.** `3-1/2` showed up as `3â1/2`, and some words were stuck together (`ESTShare`). Fixed by forcing UTF-8 and using `get_text(" ")`.
 - **My first parser crashed.** I assumed every statement used the same format because the first one did. The format changed in June: "Voting for ..." disappeared and a vote tally ("by a 12 - 0 vote") appeared at the top. To see every way voting is written, I searched all paragraphs for "vot" and built two rules, one per format.
-- **April had two groups of dissenters** with different reasons. My first version only caught one of them. I found it by reading all the vote paragraphs.
 
 **Result:**
 
@@ -83,8 +81,6 @@ requirements.txt
 | Jun 17 | 12-0 | none |
 | Jul 29 | 9-3 | Hammack, Kashkari, Logan |
 | Sep 16 | 12-0 | none |
-
-**Finding:** From January to April, Miran dissented each time, wanting a rate cut. In April, Hammack, Kashkari and Logan also dissented, objecting to the statement's easing bias. In July the same three dissented again, this time wanting a rate hike. In September the committee raised rates by 1/4 point, and the vote was unanimous.
 
 <img width="1718" height="1066" alt="fa78035f-af31-4bee-a7ae-227f233ba87a" src="https://github.com/user-attachments/assets/6139a267-ed53-414d-a639-7aece19afed6" />
 
@@ -112,4 +108,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Then open any notebook and choose the `.venv` kernel. The Oxylabs and IMDb notebooks open Chrome through Selenium, and IMDb may ask you to solve a CAPTCHA.
+Then open any notebook and choose the `.venv` kernel. The Oxylabs and IMDb notebooks open Chrome through Selenium, and IMDb will ask you to solve a CAPTCHA.
