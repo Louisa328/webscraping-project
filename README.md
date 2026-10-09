@@ -1,77 +1,65 @@
 # Web Scraping Practice
 
-This project covers: reproducing the Oxylabs web scraping tutorial, improving its code, and scraping two real websites that were not designed for scraping (IMDb Top 250 and the 2026 FOMC statements from the Federal Reserve). I also worked through the Real Python examples (urllib, regex, BeautifulSoup, MechanicalSoup, the dice page) as a warm-up. They are not included here.
+Reproducing the Oxylabs scraping tutorial, improving it, scraping two real websites (IMDb Top 250 and the 2026 FOMC statements), and saving the results to SQL. Each part has its own notebook, CSV and SQLite database.
 
-Each part is a Jupyter notebook. The results are saved as CSV files.
+| Folder | Project | Output |
+|---|---|---|
+| `reproduction/` | Oxylabs tutorial + improvements | `products_10pages.csv`, `products_10pages_clean.csv`, `oxylabs.db` |
+| `realworld/` | IMDb Top 250 | `imdb_top250.csv`, `imdb.db` |
+| `realworld-2/` | FOMC 2026 statements | `fomc_2026_votes.csv`, `fomc.db` |
 
-## Project structure
+## How the three sites differ
 
-```
-reproduction/      Oxylabs tutorial + improved version
-  oxylabs_reproduction.ipynb
-  products_10pages.csv          raw data, 320 products
-  products_10pages_clean.csv    cleaned data
-realworld/         IMDb Top 250
-  imdb_top250.ipynb
-  imdb_top250.csv
-realworld-2/       FOMC 2026 statements
-  fomc2026.ipynb
-  fomc_2026_votes.csv
-requirements.txt
-```
+| | Oxylabs sandbox | IMDb Top 250 | FOMC statements |
+|---|---|---|---|
+| Data | Product cards | Movie list | Paragraphs of text |
+| Where it sits | `div.product-card`, 32 per page | JSON-LD block in the page | `<p>` tags in `div#article`, no classes |
+| Pages | `?page=N` | One page | Calendar page → one page per statement |
+| Anti-scraping | None | AWS WAF + CAPTCHA | None |
+| Main difficulty | Ratings drawn by JavaScript | Getting into the page | Format changed mid-year |
+| Tool used | Selenium | Selenium + JSON | requests + regex |
 
 ---
 
-## 1. Oxylabs tutorial: reproduce and improve
+## 1. Oxylabs tutorial
 
-**What I did:** Ran the tutorial code on `sandbox.oxylabs.io`, then changed it to get more fields and more pages.
+Ran the tutorial, then extended it from 2 fields to 8 and from 1 page to 10.
 
-**Challenges and fixes:**
+**Challenges**
 
-- **The blog-title example no longer works.** The tutorial selects titles by the class `e1dscegp1`. The page loads fine (status 200), but that class isn't in the HTML anymore, so all four methods (BeautifulSoup, select, lxml, Selenium) return 0 results. It's an auto-generated class name that changed when the site was updated. For the product cards I used readable class names like `title` and `price-wrapper` instead.
-- **Names and prices were stored in two separate lists.** If one product were missing a price, the lists would no longer line up. I changed it so each product card becomes one dict.
-- **requests vs Selenium.** requests found the same 32 product cards and was about 4× faster per page. But a range check later showed every rating was 0: the stars are drawn by JavaScript, so requests can't see them. I switched pagination to Selenium (one browser for all 10 pages).
+- **Blog-title selector no longer works.** All four tutorial methods (BeautifulSoup, CSS select, lxml, Selenium) returned 0 titles with no error. The page loads fine, but the class `e1dscegp1` isn't in the HTML anymore. Inspecting the page showed the new class `e1ot91pl0`, which works again. These class names are auto-generated and change when the site is rebuilt, so for the products I used readable class names like `title` and `price-wrapper` instead.
+- **requests was faster, but every rating was 0.** requests and Selenium both found 32 products and requests was faster, so I used it for 10 pages. Then all 320 ratings came back as 0: in the raw HTML the rating `div` is empty, because the stars are drawn by JavaScript. I had only compared the number of products, not their fields. I switched to Selenium.
+- **The notebook itself.** I reused variable names (`soup`, `df_all`) for different data, so some checks read the wrong data, and cells failed with `NameError` after a restart. I gave each version its own name and used Restart → Run All.
 
-**Result:** 320 products from 10 pages, 8 fields (id, title, categories, rating, description, price, price as a number, URL).
-
-**Cleaning:** No duplicates. Removed line breaks from descriptions and stray "-" from titles. All prices converted to numbers (33.99 to 92.99 €). Ratings are 4 - 5.
-
+**Result:** 320 products, 8 fields. One dict per product (instead of two lists joined by position), prices converted to numbers, missing elements return `None`. Cleaned: no duplicates, removed line breaks and stray characters.
 
 ---
 
 ## 2. IMDb Top 250
 
-**What I did:** Scraped the IMDb Top 250 movies chart.
+**Challenges**
 
-**Challenges and fixes:**
+- **Blocked by a firewall.** requests got status 202 and an empty page. Printing the response headers showed `x-amzn-waf-action: challenge`, which comes from AWS WAF (Amazon's firewall). requests can't pass that check, so I switched to Selenium.
+- **CAPTCHA.** IMDb showed an image CAPTCHA to the automated browser. I solved it by hand and didn't try to bypass it.
+- **Outdated selector.** The page had 250 movie items, but the usual selector `h3.ipc-title__text` only matched 3 section headings. I saved the HTML and found a JSON-LD block with all 250 movies, so I parsed that instead. It's simpler and more stable than class names.
 
-- **IMDb blocks scrapers.** A normal User-Agent header didn't help: `requests` got status 202 and an empty page. The response header `x-amzn-waf-action: challenge` shows the page is protected by AWS WAF, which sends a JavaScript check that requests can't run.
-- **CAPTCHA.** I switched to Selenium. IMDb still showed an image CAPTCHA, which I had to solve it manually. 
-- **Outdated selectors.** Even with the full page loaded, I found 0 movies. Movie titles are no longer in `h3.ipc-title__text`. I saved the HTML and found a JSON-LD block with all 250 movies, so I parsed that instead. It's simpler and more stable than HTML class names.
+**Result:** 250 movies, 8 fields (rank, title, rating, votes, genre, content rating, minutes, URL). 6 non-US movies have no content rating and are kept as missing.
 
-**Result:** 250 movies, 8 fields (rank, title, rating, votes, genre, content rating, duration in minutes, URL).
-
-**Data notes:** 6 movies have no content rating. They are all non-US movies, which likely never got a US rating, so I kept them as missing. 
-
-<img width="1712" height="842" alt="265e84a0-4550-4a60-842d-caae041d9e3d" src="https://github.com/user-attachments/assets/dfa9ab21-69dc-4eb3-9ea3-49f02e348fc7" />
+**Note:** IMDb's terms don't allow scraping. This was a one-time learning exercise; for real use, IMDb's official datasets would be the right source.
 
 ---
 
-## 3. FOMC 2026 statements: votes and dissents
+## 3. FOMC 2026 statements
 
-**What I did:** Collected the 6 FOMC statements released in 2026 and extracted the vote result for each meeting. This dataset is text, not a table, so the work was turning sentences into fields.
+Extracted the vote result and dissenters from the 6 statements released in 2026.
 
-**Approach:**
+**Challenges**
 
-1. Found the 6 statement links on the FOMC calendar page by matching URLs like `monetary2026XXXXa.htm`.
-2. Used Chrome-Inspect to find where the text is: inside `div#article`, as plain `<p>` tags.
-3. Saved all 6 pages once, so I didn't re-request them while testing.
+- **Garbled text.** `3-1/2` showed up as `3â1/2` and some words were stuck together. Fixed by setting the encoding to UTF-8 and using `get_text(" ")`.
+- **First parser crashed.** I built it from the January statement only. It crashed on June and September because the format changed: January–April list "Voting for / Voting against" with names, June–September give a tally ("by a 12 - 0 vote") instead. I searched every paragraph for "vot" to see all the wordings, then wrote one rule per format.
+- **Counting names.** "Vice Chair" looked like a name to my pattern, and April had two groups of dissenters with different reasons. I removed titles and reasons before counting.
 
-**Challenges and fixes:**
-
-- **My first parser crashed.** I assumed every statement used the same format because the first one did. The format changed in June: "Voting for ..." disappeared and a vote tally ("by a 12 - 0 vote") appeared at the top. To see every way voting is written, I searched all paragraphs for "vot" and built two rules, one per format.
-
-**Result:**
+**Check:** every meeting adds up to 12 voters.
 
 | Meeting | Vote | Voting against |
 |---|---|---|
@@ -82,22 +70,29 @@ requirements.txt
 | Jul 29 | 9-3 | Hammack, Kashkari, Logan |
 | Sep 16 | 12-0 | none |
 
-<img width="1718" height="1066" alt="fa78035f-af31-4bee-a7ae-227f233ba87a" src="https://github.com/user-attachments/assets/6139a267-ed53-414d-a639-7aece19afed6" />
+**Finding:** Miran dissented January–April, wanting a cut. Hammack, Kashkari and Logan started dissenting in April and pushed for a hike in July. In September the vote to raise rates was unanimous.
 
 ---
 
-## 4. Code improvements
+## 4. SQL
 
-| Problem | What I changed |
-|---|---|
-| Missing elements crash the code (`.text` on `None`) | Helper returns `None` instead of crashing; `.get()` for JSON |
-| Parallel lists can misalign | One dict per item |
-| Requests can hang | `timeout=10` on every request |
-| One bad page stops the whole loop | `try/except` per page |
-| Browser left open | `try/finally` with `driver.quit()` |
-| Prices and durations are text | Converted to numbers |
-| Re-requesting pages while testing | Saved pages once and parsed from memory (FOMC) |
-| Hashed class names break | Used readable class names, IDs, or JSON-LD instead |
+Each notebook saves its final data to a SQLite table in its own folder. The three datasets are unrelated, so each project has its own database. I opened them in DataGrip and ran one query each.
+
+**Oxylabs** (`products`, 320 rows): number of products and average price by rating
+
+> 📷 Screenshot
+
+**IMDb** (`top250`, 250 rows): number of movies and average rating by content rating
+
+> 📷 Screenshot
+
+**FOMC** (`votes_2026`, 6 rows): meetings with at least one dissent
+
+> 📷 Screenshot
+![SQL query: oxylabs](SQL_screenshots/sql_oxylabs.png)
+![SQL query: imdb](SQL_screenshots/sql_imdb.png)
+![SQL query: fomc](SQL_screenshots/sql_fomc.png)
+---
 
 
 ## How to run
@@ -108,4 +103,4 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Then open any notebook and choose the `.venv` kernel. The Oxylabs and IMDb notebooks open Chrome through Selenium, and IMDb will ask you to solve a CAPTCHA.
+Open a notebook and choose the `.venv` kernel. Oxylabs and IMDb open Chrome through Selenium; IMDb may ask for a CAPTCHA.
