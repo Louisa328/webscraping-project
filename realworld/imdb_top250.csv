@@ -1,251 +1,251 @@
 ﻿rank,title,rating,votes,genre,content_rating,duration_min,url
-1,The Shawshank Redemption,9.3,3247940,Drama,R,142,https://www.imdb.com/title/tt0111161/
-2,The Godfather,9.2,2261969,"Crime, Drama",R,175,https://www.imdb.com/title/tt0068646/
-3,The Dark Knight,9.1,3235275,"Crime, Thriller",PG-13,152,https://www.imdb.com/title/tt0468569/
-4,The Godfather Part II,9.0,1517004,"Crime, Drama",R,202,https://www.imdb.com/title/tt0071562/
-5,The Lord of the Rings: The Return of the King,9.0,2198303,"Adventure, Drama, Fantasy",PG-13,201,https://www.imdb.com/title/tt0167260/
-6,12 Angry Men,9.0,1006166,"Crime, Drama",Approved,96,https://www.imdb.com/title/tt0050083/
-7,Schindler's List,9.0,1606887,"Biography, Drama, History",R,196,https://www.imdb.com/title/tt0108052/
-8,The Lord of the Rings: The Fellowship of the Ring,8.9,2242210,"Adventure, Drama, Fantasy",PG-13,178,https://www.imdb.com/title/tt0120737/
-9,Pulp Fiction,8.8,2472997,"Crime, Drama",R,154,https://www.imdb.com/title/tt0110912/
-10,The Lord of the Rings: The Two Towers,8.8,1988365,"Adventure, Drama, Fantasy",PG-13,179,https://www.imdb.com/title/tt0167261/
-11,"Il buono, il brutto, il cattivo",8.8,903228,"Adventure, Drama, Western",R,178,https://www.imdb.com/title/tt0060196/
-12,Forrest Gump,8.8,2541319,"Drama, Romance",PG-13,142,https://www.imdb.com/title/tt0109830/
-13,Fight Club,8.8,2668910,"Crime, Drama, Thriller",R,139,https://www.imdb.com/title/tt0137523/
-14,Inception,8.8,2876160,"Adventure, Sci-Fi, Thriller",PG-13,148,https://www.imdb.com/title/tt1375666/
-15,Star Wars: Episode V - The Empire Strikes Back,8.7,1527058,"Adventure, Fantasy, Sci-Fi",PG,124,https://www.imdb.com/title/tt0080684/
-16,The Matrix,8.7,2283677,"Action, Sci-Fi",R,136,https://www.imdb.com/title/tt0133093/
-17,Interstellar,8.7,2616389,"Adventure, Sci-Fi",PG-13,169,https://www.imdb.com/title/tt0816692/
-18,GoodFellas,8.7,1416882,"Biography, Crime, Drama",R,145,https://www.imdb.com/title/tt0099685/
-19,One Flew Over the Cuckoo's Nest,8.6,1169413,Drama,R,133,https://www.imdb.com/title/tt0073486/
-20,Se7en,8.6,2065372,"Crime, Drama, Mystery",R,127,https://www.imdb.com/title/tt0114369/
-21,It's a Wonderful Life,8.6,560808,"Drama, Family, Fantasy",PG,130,https://www.imdb.com/title/tt0038650/
-22,The Silence of the Lambs,8.6,1754806,"Crime, Drama, Horror",R,118,https://www.imdb.com/title/tt0102926/
-23,Saving Private Ryan,8.6,1665845,"Drama, War",R,169,https://www.imdb.com/title/tt0120815/
-24,Shichinin no samurai,8.6,406560,"Action, Drama",Not Rated,207,https://www.imdb.com/title/tt0047478/
-25,The Green Mile,8.6,1589413,"Crime, Drama, Fantasy",R,189,https://www.imdb.com/title/tt0120689/
-26,Cidade de Deus,8.6,883893,"Crime, Drama",R,130,https://www.imdb.com/title/tt0317248/
-27,La vita è bella,8.6,824648,"Comedy, Drama, Romance",PG-13,116,https://www.imdb.com/title/tt0118799/
-28,Terminator 2: Judgment Day,8.6,1304479,"Action, Adventure, Sci-Fi",R,137,https://www.imdb.com/title/tt0103064/
-29,Back to the Future,8.5,1479772,"Adventure, Comedy, Sci-Fi",PG,116,https://www.imdb.com/title/tt0088763/
-30,Star Wars,8.6,1591991,"Action, Adventure, Fantasy",PG,121,https://www.imdb.com/title/tt0076759/
-31,Sen to Chihiro no kamikakushi,8.6,987641,"Animation, Adventure, Family",PG,124,https://www.imdb.com/title/tt0245429/
-32,Gladiator,8.5,1886343,"Action, Adventure, Drama",R,155,https://www.imdb.com/title/tt0172495/
-33,The Pianist,8.5,1027345,"Biography, Drama, Music",R,150,https://www.imdb.com/title/tt0253474/
-34,Kill Bill: The Whole Bloody Affair,8.7,62183,"Action, Crime, Thriller",Unrated,253,https://www.imdb.com/title/tt6019206/
-35,Gisaengchung,8.5,1200379,"Drama, Thriller",R,132,https://www.imdb.com/title/tt6751668/
-36,Hotaru no haka,8.5,398053,"Animation, Drama, War",Not Rated,88,https://www.imdb.com/title/tt0095327/
-37,Seppuku,8.6,94631,"Drama, Mystery",Not Rated,133,https://www.imdb.com/title/tt0056058/
-38,The Lion King,8.5,1280447,"Animation, Adventure, Drama",G,88,https://www.imdb.com/title/tt0110357/
-39,Psycho,8.5,795882,"Drama, Horror, Mystery",R,109,https://www.imdb.com/title/tt0054215/
-40,The Departed,8.5,1582571,"Crime, Drama, Thriller",R,151,https://www.imdb.com/title/tt0407887/
-41,Whiplash,8.5,1185321,"Drama, Music",R,106,https://www.imdb.com/title/tt2582802/
-42,The Prestige,8.5,1631245,"Drama, Mystery, Sci-Fi",PG-13,130,https://www.imdb.com/title/tt0482571/
-43,American History X,8.5,1288963,"Crime, Drama",R,119,https://www.imdb.com/title/tt0120586/
-44,Spider-Man: Across the Spider-Verse,8.5,556507,"Animation, Action, Adventure",PG,140,https://www.imdb.com/title/tt9362722/
-45,Nuovo Cinema Paradiso,8.5,321532,"Drama, Romance",PG,174,https://www.imdb.com/title/tt0095765/
-46,Léon,8.5,1368375,"Action, Crime, Drama",R,110,https://www.imdb.com/title/tt0110413/
-47,Casablanca,8.5,662165,"Drama, Romance, War",PG,102,https://www.imdb.com/title/tt0034583/
-48,Intouchables,8.5,1044485,"Comedy, Drama",R,112,https://www.imdb.com/title/tt1675434/
-49,The Usual Suspects,8.5,1256958,"Crime, Drama, Mystery",R,106,https://www.imdb.com/title/tt0114814/
-50,Django Unchained,8.5,1918066,"Drama, Western",R,165,https://www.imdb.com/title/tt1853728/
-51,Alien,8.4,1078892,Sci-Fi,R,117,https://www.imdb.com/title/tt0078748/
-52,Rear Window,8.4,574966,"Drama, Mystery, Thriller",PG,112,https://www.imdb.com/title/tt0047396/
-53,Modern Times,8.5,288285,"Comedy, Drama, Romance",G,87,https://www.imdb.com/title/tt0027977/
-54,C'era una volta il West,8.5,388357,"Drama, Western",PG-13,145,https://www.imdb.com/title/tt0064116/
-55,WALL·E,8.4,1344576,"Animation, Adventure, Family",G,98,https://www.imdb.com/title/tt0910970/
-56,City Lights,8.5,218597,"Comedy, Drama, Romance",G,87,https://www.imdb.com/title/tt0021749/
-57,Apocalypse Now,8.4,779436,"Drama, Mystery, War",R,147,https://www.imdb.com/title/tt0078788/
-58,Memento,8.4,1461851,"Mystery, Thriller",R,113,https://www.imdb.com/title/tt0209144/
-59,Avengers: Infinity War,8.4,1415116,"Action, Adventure, Sci-Fi",PG-13,149,https://www.imdb.com/title/tt4154756/
-60,Dune: Part Two,8.4,797225,"Action, Adventure, Drama",PG-13,166,https://www.imdb.com/title/tt15239678/
-61,Raiders of the Lost Ark,8.4,1122575,Adventure,PG,115,https://www.imdb.com/title/tt0082971/
-62,The Odyssey,8.4,519548,"Action, Adventure, Fantasy",R,172,https://www.imdb.com/title/tt33764258/
-63,Spider-Man: Into the Spider-Verse,8.4,819368,"Animation, Action, Adventure",PG,117,https://www.imdb.com/title/tt4633694/
-64,Das Leben der Anderen,8.4,447793,"Drama, Mystery, Thriller",R,137,https://www.imdb.com/title/tt0405094/
-65,Sunset Boulevard,8.4,264257,"Drama, Film-Noir",Approved,110,https://www.imdb.com/title/tt0043014/
-66,Witness for the Prosecution,8.4,164904,"Crime, Drama, Mystery",Approved,116,https://www.imdb.com/title/tt0051201/
-67,Paths of Glory,8.4,243149,"Drama, War",Approved,88,https://www.imdb.com/title/tt0050825/
-68,Inglourious Basterds,8.4,1822164,"Drama, War",R,153,https://www.imdb.com/title/tt0361748/
-69,The Shining,8.4,1246206,"Drama, Horror",R,146,https://www.imdb.com/title/tt0081505/
-70,The Great Dictator,8.4,260729,"Comedy, Drama, War",G,125,https://www.imdb.com/title/tt0032553/
-71,Aliens,8.4,849717,"Action, Adventure, Sci-Fi",R,137,https://www.imdb.com/title/tt0090605/
-72,Tengoku to jigoku,8.4,73892,"Crime, Drama, Mystery",Not Rated,143,https://www.imdb.com/title/tt0057565/
-73,12th Fail,8.7,178294,"Biography, Drama",,147,https://www.imdb.com/title/tt23849204/
-74,Avengers: Endgame,8.4,1495869,"Action, Adventure, Sci-Fi",PG-13,181,https://www.imdb.com/title/tt4154796/
-75,Good Will Hunting,8.4,1246052,"Drama, Romance",R,126,https://www.imdb.com/title/tt0119217/
-76,Coco,8.4,729388,"Animation, Adventure, Drama",PG,105,https://www.imdb.com/title/tt2380307/
-77,Toy Story,8.3,1201925,"Animation, Adventure, Comedy",G,81,https://www.imdb.com/title/tt0114709/
-78,The Dark Knight Rises,8.4,2031386,"Crime, Thriller",PG-13,164,https://www.imdb.com/title/tt1345836/
-79,Amadeus,8.4,474218,"Biography, Drama, Music",PG,160,https://www.imdb.com/title/tt0086879/
-80,Kimi no na wa.,8.4,406806,"Animation, Drama, Fantasy",,106,https://www.imdb.com/title/tt5311514/
-81,3 Idiots,8.4,490748,"Comedy, Drama",PG-13,170,https://www.imdb.com/title/tt1187043/
-82,Das Boot,8.3,290954,"Drama, War",,149,https://www.imdb.com/title/tt0082096/
-83,Braveheart,8.3,1173867,"Drama, War",R,178,https://www.imdb.com/title/tt0112573/
-84,Mononoke-hime,8.3,492153,"Animation, Adventure, Fantasy",PG-13,133,https://www.imdb.com/title/tt0119698/
-85,Oldeuboi,8.3,734558,"Action, Drama, Mystery",R,120,https://www.imdb.com/title/tt0364569/
-86,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,555277,"Comedy, War",PG,95,https://www.imdb.com/title/tt0057012/
-87,American Beauty,8.3,1289825,Drama,R,122,https://www.imdb.com/title/tt0169547/
-88,Capharnaüm,8.4,127309,Drama,R,126,https://www.imdb.com/title/tt8267604/
-89,Singin' in the Rain,8.3,286372,"Comedy, Musical, Romance",G,103,https://www.imdb.com/title/tt0045152/
-90,C'era una volta in America,8.3,412870,"Crime, Drama",R,229,https://www.imdb.com/title/tt0087843/
-91,Joker,8.3,1729298,Drama,R,122,https://www.imdb.com/title/tt7286456/
-92,Shingeki no Kyojin: The Last Attack,8.9,38214,"Animation, Action, Adventure",,145,https://www.imdb.com/title/tt33175825/
-93,Toy Story 3,8.3,992746,"Animation, Adventure, Comedy",G,103,https://www.imdb.com/title/tt0435761/
-94,Star Wars: Episode VI - Return of the Jedi,8.3,1225938,"Action, Adventure, Fantasy",PG,131,https://www.imdb.com/title/tt0086190/
-95,Idi i smotri,8.3,127074,"Drama, Thriller, War",Not Rated,142,https://www.imdb.com/title/tt0091251/
-96,Requiem for a Dream,8.3,986699,Drama,NC-17,102,https://www.imdb.com/title/tt0180093/
-97,Incendies,8.3,260657,"Drama, Mystery, War",R,131,https://www.imdb.com/title/tt1255953/
-98,Ikiru,8.3,104232,Drama,Not Rated,143,https://www.imdb.com/title/tt0044741/
-99,Jagten,8.3,419901,Drama,R,115,https://www.imdb.com/title/tt2106476/
-100,Eternal Sunshine of the Spotless Mind,8.3,1198451,"Drama, Romance, Sci-Fi",R,108,https://www.imdb.com/title/tt0338013/
-101,The Apartment,8.3,223529,"Comedy, Drama, Romance",Approved,125,https://www.imdb.com/title/tt0053604/
-102,Lawrence of Arabia,8.3,346917,"Adventure, Biography, Drama",Approved,227,https://www.imdb.com/title/tt0056172/
-103,Heat,8.3,820379,"Action, Crime, Drama",R,170,https://www.imdb.com/title/tt0113277/
-104,Scarface,8.3,1037199,"Crime, Drama",R,170,https://www.imdb.com/title/tt0086250/
-105,Reservoir Dogs,8.2,1183676,"Crime, Thriller",R,99,https://www.imdb.com/title/tt0105236/
-106,Up,8.3,1258597,"Animation, Adventure, Comedy",PG,96,https://www.imdb.com/title/tt1049413/
-107,2001: A Space Odyssey,8.3,794352,"Adventure, Sci-Fi",G,149,https://www.imdb.com/title/tt0062622/
-108,Double Indemnity,8.3,183564,"Crime, Drama, Film-Noir",Approved,107,https://www.imdb.com/title/tt0036775/
-109,Taare Zameen Par,8.3,236772,"Drama, Family",PG,162,https://www.imdb.com/title/tt0986264/
-110,North by Northwest,8.2,372206,"Adventure, Drama, Mystery",Approved,136,https://www.imdb.com/title/tt0053125/
-111,Full Metal Jacket,8.2,861127,"Drama, War",R,116,https://www.imdb.com/title/tt0093058/
-112,Jodaeiye Nader az Simin,8.3,280943,Drama,PG-13,123,https://www.imdb.com/title/tt1832382/
-113,I Swear,8.3,67707,"Biography, Drama",R,120,https://www.imdb.com/title/tt31514146/
-114,Die Hard,8.2,1041504,"Action, Thriller",R,132,https://www.imdb.com/title/tt0095016/
-115,M - Eine Stadt sucht einen Mörder,8.3,184716,"Crime, Mystery, Thriller",Passed,99,https://www.imdb.com/title/tt0022100/
-116,Le fabuleux destin d'Amélie Poulain,8.2,848251,"Comedy, Romance",R,122,https://www.imdb.com/title/tt0211915/
-117,Vertigo,8.2,463618,"Mystery, Romance, Thriller",PG,128,https://www.imdb.com/title/tt0052357/
-118,To Kill a Mockingbird,8.2,353708,"Crime, Drama",Approved,129,https://www.imdb.com/title/tt0056592/
-119,Citizen Kane,8.2,497399,"Drama, Mystery",PG,119,https://www.imdb.com/title/tt0033467/
-120,Indiana Jones and the Last Crusade,8.2,872830,Adventure,PG-13,127,https://www.imdb.com/title/tt0097576/
-121,The Sting,8.2,306581,"Comedy, Crime, Drama",PG,129,https://www.imdb.com/title/tt0070735/
-122,A Clockwork Orange,8.2,946425,"Crime, Sci-Fi",R,136,https://www.imdb.com/title/tt0066921/
-123,Metropolis,8.2,203445,"Drama, Sci-Fi",Passed,150,https://www.imdb.com/title/tt0017136/
-124,The Truman Show,8.2,1410649,"Comedy, Drama",PG,103,https://www.imdb.com/title/tt0120382/
-125,1917,8.2,788149,"Drama, War",R,119,https://www.imdb.com/title/tt8579674/
-126,The Wolf of Wall Street,8.2,1830123,"Biography, Comedy, Crime",R,180,https://www.imdb.com/title/tt0993846/
-127,Snatch,8.2,987378,"Comedy, Crime",R,102,https://www.imdb.com/title/tt0208092/
-128,Shutter Island,8.2,1688714,"Mystery, Thriller",R,138,https://www.imdb.com/title/tt1130884/
-129,Der Untergang,8.2,404537,"Biography, Drama, History",R,156,https://www.imdb.com/title/tt0363163/
-130,L.A. Confidential,8.2,664733,"Crime, Drama, Mystery",R,138,https://www.imdb.com/title/tt0119488/
-131,Green Book,8.2,706457,"Biography, Comedy, Drama",PG-13,130,https://www.imdb.com/title/tt6966692/
-132,Dangal,8.3,248861,"Action, Biography, Drama",Not Rated,161,https://www.imdb.com/title/tt5074352/
-133,Ladri di biciclette,8.2,193634,Drama,Not Rated,89,https://www.imdb.com/title/tt0040522/
-134,Suna no onna,8.4,26706,"Drama, Thriller",Not Rated,147,https://www.imdb.com/title/tt0058625/
-135,Judgment at Nuremberg,8.3,98727,"Drama, History, War",Approved,179,https://www.imdb.com/title/tt0055031/
-136,Jurassic Park,8.2,1201715,"Adventure, Sci-Fi",PG-13,127,https://www.imdb.com/title/tt0107290/
-137,Batman Begins,8.2,1747794,Crime,PG-13,140,https://www.imdb.com/title/tt0372784/
-138,Oppenheimer,8.2,1102625,"Biography, Drama, History",R,180,https://www.imdb.com/title/tt15398776/
-139,Per qualche dollaro in più,8.2,304607,"Drama, Western",R,132,https://www.imdb.com/title/tt0059578/
-140,Hamilton,8.3,143257,"Biography, Drama, History",PG-13,160,https://www.imdb.com/title/tt8503618/
-141,There Will Be Blood,8.2,720843,Drama,R,158,https://www.imdb.com/title/tt0469494/
-142,Some Like It Hot,8.2,307846,"Comedy, Music, Romance",Approved,121,https://www.imdb.com/title/tt0053291/
-143,Taxi Driver,8.2,1044398,"Crime, Drama",R,114,https://www.imdb.com/title/tt0075314/
-144,The Father,8.2,250558,"Drama, Mystery",PG-13,97,https://www.imdb.com/title/tt10272386/
-145,The Sixth Sense,8.2,1167457,"Drama, Mystery, Thriller",PG-13,107,https://www.imdb.com/title/tt0167404/
-146,The Kid,8.2,147363,"Comedy, Drama, Family",Passed,68,https://www.imdb.com/title/tt0012349/
-147,All About Eve,8.2,150814,Drama,Approved,138,https://www.imdb.com/title/tt0042192/
-148,Ran,8.2,155059,"Action, Drama, War",R,160,https://www.imdb.com/title/tt0089881/
-149,Casino,8.2,629270,"Crime, Drama",R,178,https://www.imdb.com/title/tt0112641/
-150,The Thing,8.2,537236,"Horror, Mystery, Sci-Fi",R,109,https://www.imdb.com/title/tt0084787/
-151,No Country for Old Men,8.2,1216603,"Crime, Drama, Thriller",R,122,https://www.imdb.com/title/tt0477348/
-152,Prisoners,8.2,962053,"Crime, Drama, Mystery",R,153,https://www.imdb.com/title/tt1392214/
-153,Top Gun: Maverick,8.2,908132,"Action, Drama",PG-13,130,https://www.imdb.com/title/tt1745960/
-154,Kill Bill: Vol. 1,8.2,1327389,"Action, Crime, Thriller",R,111,https://www.imdb.com/title/tt0266697/
-155,El laberinto del fauno,8.2,754112,"Drama, Fantasy, War",R,118,https://www.imdb.com/title/tt0457430/
-156,Unforgiven,8.2,473536,"Drama, Western",R,130,https://www.imdb.com/title/tt0105695/
-157,A Beautiful Mind,8.2,1065379,"Biography, Drama, Mystery",PG-13,135,https://www.imdb.com/title/tt0268978/
-158,Hauru no ugoku shiro,8.2,523013,"Animation, Adventure, Family",PG,119,https://www.imdb.com/title/tt0347149/
-159,The Treasure of the Sierra Madre,8.2,142937,"Adventure, Drama, Western",Approved,126,https://www.imdb.com/title/tt0040897/
-160,Finding Nemo,8.2,1227436,"Animation, Adventure, Comedy",G,100,https://www.imdb.com/title/tt0266543/
-161,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,8.4,86524,"Animation, Action, Adventure",R,155,https://www.imdb.com/title/tt32820897/
-162,Project Hail Mary,8.2,567480,"Adventure, Comedy, Sci-Fi",PG-13,156,https://www.imdb.com/title/tt12042730/
-163,Klaus,8.2,243267,"Animation, Adventure, Comedy",PG,96,https://www.imdb.com/title/tt4729430/
-164,Yôjinbô,8.2,144993,"Action, Drama, Thriller",Not Rated,110,https://www.imdb.com/title/tt0055630/
-165,The Elephant Man,8.2,285001,"Biography, Drama",PG,124,https://www.imdb.com/title/tt0080678/
-166,The Great Escape,8.2,280544,"Adventure, Drama, Thriller",Approved,172,https://www.imdb.com/title/tt0057115/
-167,Monty Python and the Holy Grail,8.1,608713,"Adventure, Comedy, Fantasy",PG,91,https://www.imdb.com/title/tt0071853/
-168,Dial M for Murder,8.1,207440,"Crime, Drama, Mystery",PG,105,https://www.imdb.com/title/tt0046912/
-169,El secreto de sus ojos,8.2,245856,"Drama, Mystery, Romance",R,129,https://www.imdb.com/title/tt1305806/
-170,Gone with the Wind,8.2,359252,"Drama, Romance, War",G,238,https://www.imdb.com/title/tt0031381/
-171,"Lock, Stock and Two Smoking Barrels",8.1,655188,"Comedy, Crime",R,107,https://www.imdb.com/title/tt0120735/
-172,Catch Me If You Can,8.1,1267980,"Biography, Crime, Drama",PG-13,141,https://www.imdb.com/title/tt0264464/
-173,Chinatown,8.1,380831,"Drama, Mystery, Thriller",R,130,https://www.imdb.com/title/tt0071315/
-174,V for Vendetta,8.1,1257807,"Action, Drama, Sci-Fi",R,132,https://www.imdb.com/title/tt0434409/
-175,Dead Poets Society,8.1,671486,"Comedy, Drama",PG,128,https://www.imdb.com/title/tt0097165/
-176,La meglio gioventù,8.4,28890,"Drama, Romance",R,374,https://www.imdb.com/title/tt0346336/
-177,Inside Out,8.1,934881,"Animation, Adventure, Comedy",PG,95,https://www.imdb.com/title/tt2096673/
-178,Trainspotting,8.1,775827,"Crime, Drama",R,93,https://www.imdb.com/title/tt0117951/
-179,Harry Potter and the Deathly Hallows: Part 2,8.1,1065067,"Adventure, Family, Fantasy",PG-13,130,https://www.imdb.com/title/tt1201607/
-180,"Three Billboards Outside Ebbing, Missouri",8.1,617330,"Comedy, Crime, Drama",R,115,https://www.imdb.com/title/tt5027774/
-181,The Bridge on the River Kwai,8.1,251726,"Adventure, Drama, War",PG,161,https://www.imdb.com/title/tt0050212/
-182,Rashômon,8.1,199096,"Crime, Drama, Mystery",Not Rated,88,https://www.imdb.com/title/tt0042876/
-183,Barry Lyndon,8.1,208901,"Adventure, Drama, War",PG,185,https://www.imdb.com/title/tt0072684/
-184,Ben-Hur,8.1,273954,"Adventure, Drama",G,212,https://www.imdb.com/title/tt0052618/
-185,The Wild Robot,8.1,239352,"Animation, Adventure, Family",PG,102,https://www.imdb.com/title/tt29623480/
-186,Warrior,8.1,534357,"Action, Drama, Sport",PG-13,140,https://www.imdb.com/title/tt1291584/
-187,Hacksaw Ridge,8.1,698883,"Biography, Drama, History",R,139,https://www.imdb.com/title/tt2119532/
-188,Ratatouille,8.1,968485,"Animation, Adventure, Comedy",G,111,https://www.imdb.com/title/tt0382932/
-189,Mad Max: Fury Road,8.1,1223206,"Action, Adventure, Sci-Fi",R,120,https://www.imdb.com/title/tt1392190/
-190,Million Dollar Baby,8.1,774792,"Drama, Sport",PG-13,132,https://www.imdb.com/title/tt0405159/
-191,Fargo,8.1,799167,"Crime, Drama, Thriller",R,98,https://www.imdb.com/title/tt0116282/
-192,Bacheha-ye aseman,8.2,91537,"Drama, Family, Sport",PG,89,https://www.imdb.com/title/tt0118849/
-193,Tonari no Totoro,8.1,440967,"Animation, Adventure, Comedy",G,86,https://www.imdb.com/title/tt0096283/
-194,Gran Torino,8.1,871513,Drama,R,116,https://www.imdb.com/title/tt1205489/
-195,Raging Bull,8.1,414871,"Biography, Drama, Sport",R,129,https://www.imdb.com/title/tt0081398/
-196,12 Years a Slave,8.1,795934,"Biography, Drama, History",R,134,https://www.imdb.com/title/tt2024544/
-197,How to Train Your Dragon,8.1,910614,"Animation, Action, Adventure",PG,98,https://www.imdb.com/title/tt0892769/
-198,Salinui chueok,8.1,276411,"Crime, Drama, Mystery",Not Rated,131,https://www.imdb.com/title/tt0353969/
-199,The Grand Budapest Hotel,8.1,988594,"Comedy, Drama",R,99,https://www.imdb.com/title/tt2278388/
-200,Before Sunrise,8.1,385110,"Comedy, Drama, Romance",R,101,https://www.imdb.com/title/tt0112471/
-201,"Monsters, Inc.",8.1,1093710,"Animation, Adventure, Comedy",G,92,https://www.imdb.com/title/tt0198781/
-202,Blade Runner,8.1,892994,"Action, Drama, Sci-Fi",R,117,https://www.imdb.com/title/tt0083658/
-203,Gone Girl,8.1,1190542,"Drama, Mystery, Thriller",R,149,https://www.imdb.com/title/tt2267998/
-204,Ford v Ferrari,8.1,588669,"Action, Biography, Drama",PG-13,152,https://www.imdb.com/title/tt1950186/
-205,Jaws,8.1,751397,"Adventure, Drama, Horror",PG,124,https://www.imdb.com/title/tt0073195/
-206,In the Name of the Father,8.1,205081,"Biography, Crime, Drama",R,133,https://www.imdb.com/title/tt0107207/
-207,Gekijô-ban Chensô Man Reze-hen,8.3,70157,"Animation, Action, Adventure",R,100,https://www.imdb.com/title/tt30472557/
-208,Spider-Man: No Way Home,8.1,1079017,"Action, Adventure, Fantasy",PG-13,148,https://www.imdb.com/title/tt10872600/
-209,Relatos salvajes,8.1,242097,"Comedy, Drama, Thriller",R,122,https://www.imdb.com/title/tt3011894/
-210,Koe no katachi,8.2,151161,"Animation, Drama",Not Rated,130,https://www.imdb.com/title/tt5323662/
-211,The Gold Rush,8.1,129362,"Adventure, Comedy, Drama",Approved,95,https://www.imdb.com/title/tt0015864/
-212,Sherlock Jr.,8.1,67212,"Action, Comedy, Romance",Passed,45,https://www.imdb.com/title/tt0015324/
-213,Mary and Max.,8.1,203698,"Animation, Comedy, Drama",Not Rated,92,https://www.imdb.com/title/tt0978762/
-214,The Deer Hunter,8.1,390230,"Drama, War",R,183,https://www.imdb.com/title/tt0077416/
-215,Logan,8.1,942768,"Action, Drama, Sci-Fi",R,137,https://www.imdb.com/title/tt3315342/
-216,Le salaire de la peur,8.1,74559,"Adventure, Drama, Thriller",Not Rated,156,https://www.imdb.com/title/tt0046268/
-217,Rocky,8.1,703256,"Drama, Sport",PG,120,https://www.imdb.com/title/tt0075148/
-218,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1348262,"Action, Adventure, Fantasy",PG-13,143,https://www.imdb.com/title/tt0325980/
-219,The General,8.1,106390,"Action, Adventure, Comedy",Passed,78,https://www.imdb.com/title/tt0017925/
-220,Mr. Smith Goes to Washington,8.1,130656,"Comedy, Drama",Approved,129,https://www.imdb.com/title/tt0031679/
-221,Tôkyô monogatari,8.1,79029,Drama,Not Rated,137,https://www.imdb.com/title/tt0046438/
-222,La haine,8.1,232413,"Crime, Drama",Not Rated,98,https://www.imdb.com/title/tt0113247/
-223,Maharaja,8.3,86179,"Action, Crime, Drama",,141,https://www.imdb.com/title/tt26548265/
-224,Spotlight,8.1,541820,"Biography, Crime, Drama",R,129,https://www.imdb.com/title/tt1895587/
-225,The Sound of Music,8.1,295885,"Biography, Drama, Family",G,174,https://www.imdb.com/title/tt0059742/
-226,Jai Bhim,8.6,236753,"Crime, Drama",TV-MA,164,https://www.imdb.com/title/tt15097216/
-227,The Terminator,8.1,1020336,"Action, Adventure, Sci-Fi",R,107,https://www.imdb.com/title/tt0088247/
-228,Smultronstället,8.1,126017,"Drama, Romance",Not Rated,92,https://www.imdb.com/title/tt0050986/
-229,On the Waterfront,8.1,181504,"Crime, Drama, Thriller",Approved,108,https://www.imdb.com/title/tt0047296/
-230,The Best Years of Our Lives,8.1,77291,"Drama, Romance, War",Approved,170,https://www.imdb.com/title/tt0036868/
-231,The Third Man,8.1,197681,"Drama, Film-Noir, Mystery",Approved,104,https://www.imdb.com/title/tt0041959/
-232,The Big Lebowski,8.1,925706,"Comedy, Crime",R,117,https://www.imdb.com/title/tt0118715/
-233,The Incredibles,8.0,919290,"Animation, Action, Adventure",PG,115,https://www.imdb.com/title/tt0317705/
-234,Hachi: A Dog's Tale,8.1,349143,"Biography, Drama, Family",G,93,https://www.imdb.com/title/tt1028532/
-235,Before Sunset,8.1,320340,"Drama, Romance",R,80,https://www.imdb.com/title/tt0381681/
-236,The Iron Giant,8.1,266314,"Animation, Action, Adventure",PG,86,https://www.imdb.com/title/tt0129167/
-237,Room,8.1,485563,"Drama, Thriller",R,118,https://www.imdb.com/title/tt3170832/
-238,The Exorcist,8.1,505916,Horror,R,122,https://www.imdb.com/title/tt0070047/
-239,Hotel Rwanda,8.1,395303,"Biography, Drama, History",PG-13,121,https://www.imdb.com/title/tt0395169/
-240,Platoon,8.0,477935,"Drama, War",R,120,https://www.imdb.com/title/tt0091763/
-241,Det sjunde inseglet,8.1,218179,"Drama, Fantasy",Not Rated,96,https://www.imdb.com/title/tt0050976/
-242,Rush,8.1,567847,"Biography, Drama, Sport",R,123,https://www.imdb.com/title/tt1979320/
-243,Stand by Me,8.1,496097,"Adventure, Drama",R,89,https://www.imdb.com/title/tt0092005/
-244,La battaglia di Algeri,8.1,77185,"Drama, War",Not Rated,121,https://www.imdb.com/title/tt0058946/
-245,The Wizard of Oz,8.1,473469,"Adventure, Family, Fantasy",G,102,https://www.imdb.com/title/tt0032138/
-246,Babam ve Oglum,8.2,102431,Drama,Not Rated,112,https://www.imdb.com/title/tt0476735/
-247,Hababam Sinifi: Sinifta Kaldi,8.3,31628,Comedy,,95,https://www.imdb.com/title/tt0252488/
-248,La passion de Jeanne d'Arc,8.1,69434,"Biography, Drama, History",Passed,114,https://www.imdb.com/title/tt0019254/
-249,Drishyam,8.2,111442,"Crime, Drama, Mystery",Not Rated,163,https://www.imdb.com/title/tt4430212/
-250,Höstsonaten,8.1,43673,"Drama, Music",PG,99,https://www.imdb.com/title/tt0077711/
+1,The Shawshank Redemption,9.3,3249752,Drama,R,142,https://www.imdb.com/title/tt0111161/
+2,The Godfather,9.2,2263058,"Crime, Drama",R,175,https://www.imdb.com/title/tt0068646/
+3,The Dark Knight,9.1,3236908,"Crime, Thriller",PG-13,152,https://www.imdb.com/title/tt0468569/
+4,The Godfather Part II,9.0,1517729,"Crime, Drama",R,202,https://www.imdb.com/title/tt0071562/
+5,The Lord of the Rings: The Return of the King,9.0,2199238,"Adventure, Drama, Fantasy",PG-13,201,https://www.imdb.com/title/tt0167260/
+6,12 Angry Men,9.0,1006795,"Crime, Drama",Approved,96,https://www.imdb.com/title/tt0050083/
+7,Schindler's List,9.0,1607582,"Biography, Drama, History",R,196,https://www.imdb.com/title/tt0108052/
+8,The Lord of the Rings: The Fellowship of the Ring,8.9,2243182,"Adventure, Drama, Fantasy",PG-13,178,https://www.imdb.com/title/tt0120737/
+9,Pulp Fiction,8.8,2474003,"Crime, Drama",R,154,https://www.imdb.com/title/tt0110912/
+10,The Lord of the Rings: The Two Towers,8.8,1989220,"Adventure, Drama, Fantasy",PG-13,179,https://www.imdb.com/title/tt0167261/
+11,"Il buono, il brutto, il cattivo",8.8,903616,"Adventure, Drama, Western",R,178,https://www.imdb.com/title/tt0060196/
+12,Forrest Gump,8.8,2542521,"Drama, Romance",PG-13,142,https://www.imdb.com/title/tt0109830/
+13,Inception,8.8,2877520,"Adventure, Sci-Fi, Thriller",PG-13,148,https://www.imdb.com/title/tt1375666/
+14,Fight Club,8.8,2670363,"Crime, Drama, Thriller",R,139,https://www.imdb.com/title/tt0137523/
+15,Star Wars: Episode V - The Empire Strikes Back,8.7,1527708,"Adventure, Fantasy, Sci-Fi",PG,124,https://www.imdb.com/title/tt0080684/
+16,The Matrix,8.7,2284667,"Action, Sci-Fi",R,136,https://www.imdb.com/title/tt0133093/
+17,Interstellar,8.7,2618148,"Adventure, Sci-Fi",PG-13,169,https://www.imdb.com/title/tt0816692/
+18,GoodFellas,8.7,1417550,"Biography, Crime, Drama",R,145,https://www.imdb.com/title/tt0099685/
+19,One Flew Over the Cuckoo's Nest,8.6,1169853,Drama,R,133,https://www.imdb.com/title/tt0073486/
+20,Se7en,8.6,2066574,"Crime, Drama, Mystery",R,127,https://www.imdb.com/title/tt0114369/
+21,It's a Wonderful Life,8.6,561062,"Drama, Family, Fantasy",PG,130,https://www.imdb.com/title/tt0038650/
+22,The Silence of the Lambs,8.6,1756072,"Crime, Drama, Horror",R,118,https://www.imdb.com/title/tt0102926/
+23,Saving Private Ryan,8.6,1666571,"Drama, War",R,169,https://www.imdb.com/title/tt0120815/
+24,Shichinin no samurai,8.6,406701,"Action, Drama",Not Rated,207,https://www.imdb.com/title/tt0047478/
+25,The Green Mile,8.6,1590217,"Crime, Drama, Fantasy",R,189,https://www.imdb.com/title/tt0120689/
+26,Cidade de Deus,8.6,884222,"Crime, Drama",R,130,https://www.imdb.com/title/tt0317248/
+27,La vita è bella,8.6,824959,"Comedy, Drama, Romance",PG-13,116,https://www.imdb.com/title/tt0118799/
+28,Terminator 2: Judgment Day,8.6,1305152,"Action, Adventure, Sci-Fi",R,137,https://www.imdb.com/title/tt0103064/
+29,Back to the Future,8.5,1480537,"Adventure, Comedy, Sci-Fi",PG,116,https://www.imdb.com/title/tt0088763/
+30,Star Wars,8.6,1592596,"Action, Adventure, Fantasy",PG,121,https://www.imdb.com/title/tt0076759/
+31,Sen to Chihiro no kamikakushi,8.6,988151,"Animation, Adventure, Family",PG,124,https://www.imdb.com/title/tt0245429/
+32,Gladiator,8.5,1887180,"Action, Adventure, Drama",R,155,https://www.imdb.com/title/tt0172495/
+33,The Pianist,8.5,1027789,"Biography, Drama, Music",R,150,https://www.imdb.com/title/tt0253474/
+34,Kill Bill: The Whole Bloody Affair,8.7,62906,"Action, Crime, Thriller",Unrated,253,https://www.imdb.com/title/tt6019206/
+35,Gisaengchung,8.5,1201167,"Drama, Thriller",R,132,https://www.imdb.com/title/tt6751668/
+36,Hotaru no haka,8.5,398351,"Animation, Drama, War",Not Rated,88,https://www.imdb.com/title/tt0095327/
+37,Seppuku,8.6,94740,"Drama, Mystery",Not Rated,133,https://www.imdb.com/title/tt0056058/
+38,The Lion King,8.5,1280936,"Animation, Adventure, Drama",G,88,https://www.imdb.com/title/tt0110357/
+39,Psycho,8.5,796295,"Drama, Horror, Mystery",R,109,https://www.imdb.com/title/tt0054215/
+40,The Departed,8.5,1583327,"Crime, Drama, Thriller",R,151,https://www.imdb.com/title/tt0407887/
+41,Whiplash,8.5,1186020,"Drama, Music",R,106,https://www.imdb.com/title/tt2582802/
+42,The Prestige,8.5,1632210,"Drama, Mystery, Sci-Fi",PG-13,130,https://www.imdb.com/title/tt0482571/
+43,American History X,8.5,1289328,"Crime, Drama",R,119,https://www.imdb.com/title/tt0120586/
+44,Spider-Man: Across the Spider-Verse,8.5,557150,"Animation, Action, Adventure",PG,140,https://www.imdb.com/title/tt9362722/
+45,Nuovo Cinema Paradiso,8.5,321653,"Drama, Romance",PG,174,https://www.imdb.com/title/tt0095765/
+46,Léon,8.5,1368862,"Action, Crime, Drama",R,110,https://www.imdb.com/title/tt0110413/
+47,Casablanca,8.5,662387,"Drama, Romance, War",PG,102,https://www.imdb.com/title/tt0034583/
+48,Intouchables,8.5,1044847,"Comedy, Drama",R,112,https://www.imdb.com/title/tt1675434/
+49,The Usual Suspects,8.5,1257499,"Crime, Drama, Mystery",R,106,https://www.imdb.com/title/tt0114814/
+50,Django Unchained,8.5,1918905,"Drama, Western",R,165,https://www.imdb.com/title/tt1853728/
+51,Alien,8.4,1079284,Sci-Fi,R,117,https://www.imdb.com/title/tt0078748/
+52,Rear Window,8.4,575142,"Drama, Mystery, Thriller",PG,112,https://www.imdb.com/title/tt0047396/
+53,Modern Times,8.5,288362,"Comedy, Drama, Romance",G,87,https://www.imdb.com/title/tt0027977/
+54,C'era una volta il West,8.5,388432,"Drama, Western",PG-13,145,https://www.imdb.com/title/tt0064116/
+55,WALL·E,8.4,1345067,"Animation, Adventure, Family",G,98,https://www.imdb.com/title/tt0910970/
+56,City Lights,8.5,218647,"Comedy, Drama, Romance",G,87,https://www.imdb.com/title/tt0021749/
+57,Apocalypse Now,8.4,779677,"Drama, Mystery, War",R,147,https://www.imdb.com/title/tt0078788/
+58,Memento,8.4,1462315,"Mystery, Thriller",R,113,https://www.imdb.com/title/tt0209144/
+59,Avengers: Infinity War,8.4,1416014,"Action, Adventure, Sci-Fi",PG-13,149,https://www.imdb.com/title/tt4154756/
+60,Dune: Part Two,8.4,797984,"Action, Adventure, Drama",PG-13,166,https://www.imdb.com/title/tt15239678/
+61,Raiders of the Lost Ark,8.4,1122884,Adventure,PG,115,https://www.imdb.com/title/tt0082971/
+62,Spider-Man: Into the Spider-Verse,8.4,819921,"Animation, Action, Adventure",PG,117,https://www.imdb.com/title/tt4633694/
+63,The Odyssey,8.4,522838,"Action, Adventure, Fantasy",R,172,https://www.imdb.com/title/tt33764258/
+64,Das Leben der Anderen,8.4,447886,"Drama, Mystery, Thriller",R,137,https://www.imdb.com/title/tt0405094/
+65,Sunset Boulevard,8.4,264341,"Drama, Film-Noir",Approved,110,https://www.imdb.com/title/tt0043014/
+66,Witness for the Prosecution,8.4,164992,"Crime, Drama, Mystery",Approved,116,https://www.imdb.com/title/tt0051201/
+67,Paths of Glory,8.4,243220,"Drama, War",Approved,88,https://www.imdb.com/title/tt0050825/
+68,Inglourious Basterds,8.4,1822896,"Drama, War",R,153,https://www.imdb.com/title/tt0361748/
+69,The Shining,8.4,1246854,"Drama, Horror",R,146,https://www.imdb.com/title/tt0081505/
+70,The Great Dictator,8.4,260789,"Comedy, Drama, War",G,125,https://www.imdb.com/title/tt0032553/
+71,Aliens,8.4,849982,"Action, Adventure, Sci-Fi",R,137,https://www.imdb.com/title/tt0090605/
+72,Tengoku to jigoku,8.4,73940,"Crime, Drama, Mystery",Not Rated,143,https://www.imdb.com/title/tt0057565/
+73,12th Fail,8.7,178464,"Biography, Drama",,147,https://www.imdb.com/title/tt23849204/
+74,Avengers: Endgame,8.4,1497565,"Action, Adventure, Sci-Fi",PG-13,181,https://www.imdb.com/title/tt4154796/
+75,Good Will Hunting,8.4,1246756,"Drama, Romance",R,126,https://www.imdb.com/title/tt0119217/
+76,Coco,8.4,729856,"Animation, Adventure, Drama",PG,105,https://www.imdb.com/title/tt2380307/
+77,Toy Story,8.3,1202410,"Animation, Adventure, Comedy",G,81,https://www.imdb.com/title/tt0114709/
+78,The Dark Knight Rises,8.4,2032075,"Crime, Thriller",PG-13,164,https://www.imdb.com/title/tt1345836/
+79,Amadeus,8.4,474354,"Biography, Drama, Music",PG,160,https://www.imdb.com/title/tt0086879/
+80,Kimi no na wa.,8.4,407112,"Animation, Drama, Fantasy",,106,https://www.imdb.com/title/tt5311514/
+81,3 Idiots,8.4,490916,"Comedy, Drama",PG-13,170,https://www.imdb.com/title/tt1187043/
+82,Das Boot,8.3,291026,"Drama, War",,149,https://www.imdb.com/title/tt0082096/
+83,Braveheart,8.3,1174123,"Drama, War",R,178,https://www.imdb.com/title/tt0112573/
+84,Mononoke-hime,8.3,492360,"Animation, Adventure, Fantasy",PG-13,133,https://www.imdb.com/title/tt0119698/
+85,Oldeuboi,8.3,734889,"Action, Drama, Mystery",R,120,https://www.imdb.com/title/tt0364569/
+86,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,555439,"Comedy, War",PG,95,https://www.imdb.com/title/tt0057012/
+87,American Beauty,8.3,1290081,Drama,R,122,https://www.imdb.com/title/tt0169547/
+88,Capharnaüm,8.4,127382,Drama,R,126,https://www.imdb.com/title/tt8267604/
+89,Singin' in the Rain,8.3,286448,"Comedy, Musical, Romance",G,103,https://www.imdb.com/title/tt0045152/
+90,C'era una volta in America,8.3,412983,"Crime, Drama",R,229,https://www.imdb.com/title/tt0087843/
+91,Joker,8.3,1729950,Drama,R,122,https://www.imdb.com/title/tt7286456/
+92,Shingeki no Kyojin: The Last Attack,8.9,38434,"Animation, Action, Adventure",,145,https://www.imdb.com/title/tt33175825/
+93,Toy Story 3,8.3,993131,"Animation, Adventure, Comedy",G,103,https://www.imdb.com/title/tt0435761/
+94,Star Wars: Episode VI - Return of the Jedi,8.3,1226300,"Action, Adventure, Fantasy",PG,131,https://www.imdb.com/title/tt0086190/
+95,Idi i smotri,8.3,127164,"Drama, Thriller, War",Not Rated,142,https://www.imdb.com/title/tt0091251/
+96,Requiem for a Dream,8.3,987008,Drama,NC-17,102,https://www.imdb.com/title/tt0180093/
+97,Incendies,8.3,260849,"Drama, Mystery, War",R,131,https://www.imdb.com/title/tt1255953/
+98,Ikiru,8.3,104273,Drama,Not Rated,143,https://www.imdb.com/title/tt0044741/
+99,Jagten,8.3,420123,Drama,R,115,https://www.imdb.com/title/tt2106476/
+100,Eternal Sunshine of the Spotless Mind,8.3,1198821,"Drama, Romance, Sci-Fi",R,108,https://www.imdb.com/title/tt0338013/
+101,The Apartment,8.3,223608,"Comedy, Drama, Romance",Approved,125,https://www.imdb.com/title/tt0053604/
+102,Lawrence of Arabia,8.3,347051,"Adventure, Biography, Drama",Approved,227,https://www.imdb.com/title/tt0056172/
+103,Heat,8.3,820716,"Action, Crime, Drama",R,170,https://www.imdb.com/title/tt0113277/
+104,Scarface,8.3,1037618,"Crime, Drama",R,170,https://www.imdb.com/title/tt0086250/
+105,Reservoir Dogs,8.2,1183991,"Crime, Thriller",R,99,https://www.imdb.com/title/tt0105236/
+106,Up,8.3,1259050,"Animation, Adventure, Comedy",PG,96,https://www.imdb.com/title/tt1049413/
+107,2001: A Space Odyssey,8.3,794629,"Adventure, Sci-Fi",G,149,https://www.imdb.com/title/tt0062622/
+108,Double Indemnity,8.3,183614,"Crime, Drama, Film-Noir",Approved,107,https://www.imdb.com/title/tt0036775/
+109,Taare Zameen Par,8.3,236873,"Drama, Family",PG,162,https://www.imdb.com/title/tt0986264/
+110,North by Northwest,8.2,372335,"Action, Adventure, Drama",Approved,136,https://www.imdb.com/title/tt0053125/
+111,Full Metal Jacket,8.2,861406,"Drama, War",R,116,https://www.imdb.com/title/tt0093058/
+112,Jodaeiye Nader az Simin,8.3,281015,Drama,PG-13,123,https://www.imdb.com/title/tt1832382/
+113,Die Hard,8.2,1041791,"Action, Thriller",R,132,https://www.imdb.com/title/tt0095016/
+114,I Swear,8.3,68349,"Biography, Drama",R,120,https://www.imdb.com/title/tt31514146/
+115,M - Eine Stadt sucht einen Mörder,8.3,184758,"Crime, Mystery, Thriller",Passed,99,https://www.imdb.com/title/tt0022100/
+116,Le fabuleux destin d'Amélie Poulain,8.2,848432,"Comedy, Romance",R,122,https://www.imdb.com/title/tt0211915/
+117,To Kill a Mockingbird,8.2,353784,"Crime, Drama",Approved,129,https://www.imdb.com/title/tt0056592/
+118,Vertigo,8.2,463753,"Mystery, Romance, Thriller",PG,128,https://www.imdb.com/title/tt0052357/
+119,Indiana Jones and the Last Crusade,8.2,873058,Adventure,PG-13,127,https://www.imdb.com/title/tt0097576/
+120,Citizen Kane,8.2,497520,"Drama, Mystery",PG,119,https://www.imdb.com/title/tt0033467/
+121,The Sting,8.2,306773,"Comedy, Crime, Drama",PG,129,https://www.imdb.com/title/tt0070735/
+122,A Clockwork Orange,8.2,946748,"Crime, Sci-Fi",R,136,https://www.imdb.com/title/tt0066921/
+123,Metropolis,8.2,203500,"Drama, Sci-Fi",Passed,150,https://www.imdb.com/title/tt0017136/
+124,The Truman Show,8.2,1411371,"Comedy, Drama",PG,103,https://www.imdb.com/title/tt0120382/
+125,The Wolf of Wall Street,8.2,1830868,"Biography, Comedy, Crime",R,180,https://www.imdb.com/title/tt0993846/
+126,1917,8.2,788494,"Drama, War",R,119,https://www.imdb.com/title/tt8579674/
+127,Snatch,8.2,987650,"Comedy, Crime",R,102,https://www.imdb.com/title/tt0208092/
+128,Shutter Island,8.2,1689515,"Mystery, Thriller",R,138,https://www.imdb.com/title/tt1130884/
+129,Der Untergang,8.2,404653,"Biography, Drama, History",R,156,https://www.imdb.com/title/tt0363163/
+130,L.A. Confidential,8.2,664906,"Crime, Drama, Mystery",R,138,https://www.imdb.com/title/tt0119488/
+131,Green Book,8.2,706897,"Biography, Comedy, Drama",PG-13,130,https://www.imdb.com/title/tt6966692/
+132,Dangal,8.3,248977,"Action, Biography, Drama",Not Rated,161,https://www.imdb.com/title/tt5074352/
+133,Ladri di biciclette,8.2,193694,Drama,Not Rated,89,https://www.imdb.com/title/tt0040522/
+134,Suna no onna,8.4,26747,"Drama, Thriller",Not Rated,147,https://www.imdb.com/title/tt0058625/
+135,Judgment at Nuremberg,8.3,98758,"Drama, History, War",Approved,179,https://www.imdb.com/title/tt0055031/
+136,Jurassic Park,8.2,1202137,"Adventure, Sci-Fi",PG-13,127,https://www.imdb.com/title/tt0107290/
+137,Batman Begins,8.2,1748400,Crime,PG-13,140,https://www.imdb.com/title/tt0372784/
+138,Oppenheimer,8.2,1103777,"Biography, Drama, History",R,180,https://www.imdb.com/title/tt15398776/
+139,Per qualche dollaro in più,8.2,304683,"Drama, Western",R,132,https://www.imdb.com/title/tt0059578/
+140,Hamilton,8.3,143344,"Biography, Drama, History",PG-13,160,https://www.imdb.com/title/tt8503618/
+141,There Will Be Blood,8.2,721148,Drama,R,158,https://www.imdb.com/title/tt0469494/
+142,Some Like It Hot,8.2,307922,"Comedy, Music, Romance",Approved,121,https://www.imdb.com/title/tt0053291/
+143,Taxi Driver,8.2,1044791,"Crime, Drama",R,114,https://www.imdb.com/title/tt0075314/
+144,The Father,8.2,250686,"Drama, Mystery",PG-13,97,https://www.imdb.com/title/tt10272386/
+145,The Sixth Sense,8.2,1168328,"Drama, Mystery, Thriller",PG-13,107,https://www.imdb.com/title/tt0167404/
+146,The Kid,8.2,147401,"Comedy, Drama, Family",Passed,68,https://www.imdb.com/title/tt0012349/
+147,All About Eve,8.2,150851,Drama,Approved,138,https://www.imdb.com/title/tt0042192/
+148,Ran,8.2,155140,"Action, Drama, War",R,160,https://www.imdb.com/title/tt0089881/
+149,Casino,8.2,629487,"Crime, Drama",R,178,https://www.imdb.com/title/tt0112641/
+150,The Thing,8.2,537692,"Horror, Mystery, Sci-Fi",R,109,https://www.imdb.com/title/tt0084787/
+151,No Country for Old Men,8.2,1217171,"Crime, Drama, Thriller",R,122,https://www.imdb.com/title/tt0477348/
+152,Prisoners,8.2,962611,"Crime, Drama, Mystery",R,153,https://www.imdb.com/title/tt1392214/
+153,Top Gun: Maverick,8.2,908661,"Action, Drama",PG-13,130,https://www.imdb.com/title/tt1745960/
+154,Kill Bill: Vol. 1,8.2,1327874,"Action, Crime, Thriller",R,111,https://www.imdb.com/title/tt0266697/
+155,El laberinto del fauno,8.2,754414,"Drama, Fantasy, War",R,118,https://www.imdb.com/title/tt0457430/
+156,Unforgiven,8.2,473655,"Drama, Western",R,130,https://www.imdb.com/title/tt0105695/
+157,A Beautiful Mind,8.2,1065629,"Biography, Drama, Mystery",PG-13,135,https://www.imdb.com/title/tt0268978/
+158,Hauru no ugoku shiro,8.2,523263,"Animation, Adventure, Family",PG,119,https://www.imdb.com/title/tt0347149/
+159,The Treasure of the Sierra Madre,8.2,142972,"Adventure, Drama, Western",Approved,126,https://www.imdb.com/title/tt0040897/
+160,Finding Nemo,8.2,1227802,"Animation, Adventure, Comedy",G,100,https://www.imdb.com/title/tt0266543/
+161,Klaus,8.2,243416,"Animation, Adventure, Comedy",PG,96,https://www.imdb.com/title/tt4729430/
+162,Project Hail Mary,8.2,571082,"Adventure, Comedy, Sci-Fi",PG-13,156,https://www.imdb.com/title/tt12042730/
+163,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,8.3,87086,"Animation, Action, Adventure",R,155,https://www.imdb.com/title/tt32820897/
+164,Yôjinbô,8.2,145034,"Action, Drama, Thriller",Not Rated,110,https://www.imdb.com/title/tt0055630/
+165,The Elephant Man,8.2,285108,"Biography, Drama",PG,124,https://www.imdb.com/title/tt0080678/
+166,The Great Escape,8.2,280637,"Adventure, Drama, Thriller",Approved,172,https://www.imdb.com/title/tt0057115/
+167,Monty Python and the Holy Grail,8.1,608855,"Adventure, Comedy, Fantasy",PG,91,https://www.imdb.com/title/tt0071853/
+168,Dial M for Murder,8.1,207508,"Crime, Drama, Mystery",PG,105,https://www.imdb.com/title/tt0046912/
+169,El secreto de sus ojos,8.2,245942,"Drama, Mystery, Romance",R,129,https://www.imdb.com/title/tt1305806/
+170,Gone with the Wind,8.2,359335,"Drama, Romance, War",G,238,https://www.imdb.com/title/tt0031381/
+171,"Lock, Stock and Two Smoking Barrels",8.1,655352,"Comedy, Crime",R,107,https://www.imdb.com/title/tt0120735/
+172,Catch Me If You Can,8.1,1268534,"Biography, Crime, Drama",PG-13,141,https://www.imdb.com/title/tt0264464/
+173,Chinatown,8.1,380945,"Drama, Mystery, Thriller",R,130,https://www.imdb.com/title/tt0071315/
+174,V for Vendetta,8.1,1258102,"Action, Drama, Sci-Fi",R,132,https://www.imdb.com/title/tt0434409/
+175,Dead Poets Society,8.1,671887,"Comedy, Drama",PG,128,https://www.imdb.com/title/tt0097165/
+176,La meglio gioventù,8.4,28899,"Drama, Romance",R,374,https://www.imdb.com/title/tt0346336/
+177,Inside Out,8.1,935243,"Animation, Adventure, Comedy",PG,95,https://www.imdb.com/title/tt2096673/
+178,Trainspotting,8.1,776020,"Crime, Drama",R,93,https://www.imdb.com/title/tt0117951/
+179,Harry Potter and the Deathly Hallows: Part 2,8.1,1065442,"Adventure, Family, Fantasy",PG-13,130,https://www.imdb.com/title/tt1201607/
+180,"Three Billboards Outside Ebbing, Missouri",8.1,617564,"Comedy, Crime, Drama",R,115,https://www.imdb.com/title/tt5027774/
+181,The Bridge on the River Kwai,8.1,251850,"Adventure, Drama, War",PG,161,https://www.imdb.com/title/tt0050212/
+182,Rashômon,8.1,199145,"Crime, Drama, Mystery",Not Rated,88,https://www.imdb.com/title/tt0042876/
+183,Barry Lyndon,8.1,209018,"Adventure, Drama, War",PG,185,https://www.imdb.com/title/tt0072684/
+184,Ben-Hur,8.1,274008,"Adventure, Drama",G,212,https://www.imdb.com/title/tt0052618/
+185,The Wild Robot,8.1,239655,"Animation, Adventure, Family",PG,102,https://www.imdb.com/title/tt29623480/
+186,Warrior,8.1,534478,"Action, Drama, Sport",PG-13,140,https://www.imdb.com/title/tt1291584/
+187,Hacksaw Ridge,8.1,699239,"Biography, Drama, History",R,139,https://www.imdb.com/title/tt2119532/
+188,Ratatouille,8.1,968939,"Animation, Adventure, Comedy",G,111,https://www.imdb.com/title/tt0382932/
+189,Mad Max: Fury Road,8.1,1223534,"Action, Adventure, Sci-Fi",R,120,https://www.imdb.com/title/tt1392190/
+190,Million Dollar Baby,8.1,774983,"Drama, Sport",PG-13,132,https://www.imdb.com/title/tt0405159/
+191,Fargo,8.1,799464,"Crime, Drama, Thriller",R,98,https://www.imdb.com/title/tt0116282/
+192,Bacheha-ye aseman,8.2,91571,"Drama, Family, Sport",PG,89,https://www.imdb.com/title/tt0118849/
+193,Tonari no Totoro,8.1,441179,"Animation, Adventure, Comedy",G,86,https://www.imdb.com/title/tt0096283/
+194,Gran Torino,8.1,871725,Drama,R,116,https://www.imdb.com/title/tt1205489/
+195,Raging Bull,8.1,415014,"Biography, Drama, Sport",R,129,https://www.imdb.com/title/tt0081398/
+196,12 Years a Slave,8.1,796131,"Biography, Drama, History",R,134,https://www.imdb.com/title/tt2024544/
+197,How to Train Your Dragon,8.1,910930,"Animation, Action, Adventure",PG,98,https://www.imdb.com/title/tt0892769/
+198,Salinui chueok,8.1,276622,"Crime, Drama, Mystery",TV-MA,131,https://www.imdb.com/title/tt0353969/
+199,The Grand Budapest Hotel,8.1,988865,"Comedy, Drama",R,99,https://www.imdb.com/title/tt2278388/
+200,Before Sunrise,8.1,385264,"Comedy, Drama, Romance",R,101,https://www.imdb.com/title/tt0112471/
+201,"Monsters, Inc.",8.1,1094085,"Animation, Adventure, Comedy",G,92,https://www.imdb.com/title/tt0198781/
+202,Blade Runner,8.1,893345,"Action, Drama, Sci-Fi",R,117,https://www.imdb.com/title/tt0083658/
+203,Gone Girl,8.1,1190977,"Drama, Mystery, Thriller",R,149,https://www.imdb.com/title/tt2267998/
+204,Ford v Ferrari,8.1,589020,"Action, Biography, Drama",PG-13,152,https://www.imdb.com/title/tt1950186/
+205,Jaws,8.1,751657,"Adventure, Drama, Horror",PG,124,https://www.imdb.com/title/tt0073195/
+206,In the Name of the Father,8.1,205129,"Biography, Crime, Drama",R,133,https://www.imdb.com/title/tt0107207/
+207,Gekijô-ban Chensô Man Reze-hen,8.3,70482,"Animation, Action, Adventure",R,100,https://www.imdb.com/title/tt30472557/
+208,Spider-Man: No Way Home,8.1,1080007,"Action, Adventure, Fantasy",PG-13,148,https://www.imdb.com/title/tt10872600/
+209,Relatos salvajes,8.1,242168,"Comedy, Drama, Thriller",R,122,https://www.imdb.com/title/tt3011894/
+210,Koe no katachi,8.2,151364,"Animation, Drama",Not Rated,130,https://www.imdb.com/title/tt5323662/
+211,The Gold Rush,8.1,129386,"Adventure, Comedy, Drama",Approved,95,https://www.imdb.com/title/tt0015864/
+212,Sherlock Jr.,8.1,67230,"Action, Comedy, Romance",Passed,45,https://www.imdb.com/title/tt0015324/
+213,Mary and Max.,8.1,203759,"Animation, Comedy, Drama",Not Rated,92,https://www.imdb.com/title/tt0978762/
+214,The Deer Hunter,8.1,390339,"Drama, War",R,183,https://www.imdb.com/title/tt0077416/
+215,Le salaire de la peur,8.1,74578,"Adventure, Drama, Thriller",Not Rated,156,https://www.imdb.com/title/tt0046268/
+216,Logan,8.1,943180,"Action, Drama, Sci-Fi",R,137,https://www.imdb.com/title/tt3315342/
+217,Rocky,8.1,703615,"Drama, Sport",PG,120,https://www.imdb.com/title/tt0075148/
+218,Pirates of the Caribbean: The Curse of the Black Pearl,8.1,1348673,"Action, Adventure, Fantasy",PG-13,143,https://www.imdb.com/title/tt0325980/
+219,The General,8.1,106419,"Action, Adventure, Comedy",Passed,78,https://www.imdb.com/title/tt0017925/
+220,Mr. Smith Goes to Washington,8.1,130685,"Comedy, Drama",Approved,129,https://www.imdb.com/title/tt0031679/
+221,Tôkyô monogatari,8.1,79051,Drama,Not Rated,137,https://www.imdb.com/title/tt0046438/
+222,La haine,8.1,232562,"Crime, Drama",Not Rated,98,https://www.imdb.com/title/tt0113247/
+223,Maharaja,8.3,86285,"Action, Crime, Drama",,141,https://www.imdb.com/title/tt26548265/
+224,Spotlight,8.1,541984,"Biography, Crime, Drama",R,129,https://www.imdb.com/title/tt1895587/
+225,The Sound of Music,8.1,296000,"Biography, Drama, Family",G,174,https://www.imdb.com/title/tt0059742/
+226,Jai Bhim,8.6,236824,"Crime, Drama",TV-MA,164,https://www.imdb.com/title/tt15097216/
+227,The Terminator,8.1,1020751,"Action, Adventure, Sci-Fi",R,107,https://www.imdb.com/title/tt0088247/
+228,Smultronstället,8.1,126061,"Drama, Romance",Not Rated,92,https://www.imdb.com/title/tt0050986/
+229,On the Waterfront,8.1,181616,"Crime, Drama, Thriller",Approved,108,https://www.imdb.com/title/tt0047296/
+230,The Best Years of Our Lives,8.1,77312,"Drama, Romance, War",Approved,170,https://www.imdb.com/title/tt0036868/
+231,The Third Man,8.1,197740,"Drama, Film-Noir, Mystery",Approved,104,https://www.imdb.com/title/tt0041959/
+232,The Big Lebowski,8.1,925924,"Comedy, Crime",R,117,https://www.imdb.com/title/tt0118715/
+233,The Incredibles,8.0,919651,"Animation, Action, Adventure",PG,115,https://www.imdb.com/title/tt0317705/
+234,Hachi: A Dog's Tale,8.1,349272,"Biography, Drama, Family",G,93,https://www.imdb.com/title/tt1028532/
+235,Before Sunset,8.1,320444,"Drama, Romance",R,80,https://www.imdb.com/title/tt0381681/
+236,The Iron Giant,8.1,266440,"Animation, Action, Adventure",PG,86,https://www.imdb.com/title/tt0129167/
+237,The Exorcist,8.1,506215,Horror,R,122,https://www.imdb.com/title/tt0070047/
+238,Room,8.1,485688,"Drama, Thriller",R,118,https://www.imdb.com/title/tt3170832/
+239,Hotel Rwanda,8.1,395372,"Biography, Drama, History",PG-13,121,https://www.imdb.com/title/tt0395169/
+240,Platoon,8.0,478100,"Drama, War",R,120,https://www.imdb.com/title/tt0091763/
+241,Det sjunde inseglet,8.1,218248,"Drama, Fantasy",Not Rated,96,https://www.imdb.com/title/tt0050976/
+242,Rush,8.1,568025,"Biography, Drama, Sport",R,123,https://www.imdb.com/title/tt1979320/
+243,Stand by Me,8.1,496288,"Adventure, Drama",R,89,https://www.imdb.com/title/tt0092005/
+244,La battaglia di Algeri,8.1,77219,"Drama, War",Not Rated,121,https://www.imdb.com/title/tt0058946/
+245,The Wizard of Oz,8.1,473617,"Adventure, Family, Fantasy",G,102,https://www.imdb.com/title/tt0032138/
+246,Babam ve Oglum,8.2,102469,Drama,Not Rated,112,https://www.imdb.com/title/tt0476735/
+247,Hababam Sinifi: Sinifta Kaldi,8.3,31659,Comedy,,95,https://www.imdb.com/title/tt0252488/
+248,La passion de Jeanne d'Arc,8.1,69466,"Biography, Drama, History",Passed,114,https://www.imdb.com/title/tt0019254/
+249,Drishyam,8.2,111703,"Crime, Drama, Mystery",Not Rated,163,https://www.imdb.com/title/tt4430212/
+250,96,8.4,46738,"Drama, Romance",,158,https://www.imdb.com/title/tt7019842/
